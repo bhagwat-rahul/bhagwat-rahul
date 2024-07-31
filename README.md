@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul Bhagwat
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Rust and Python
-- 💞️ I’m looking to collaborate on Embedded automation software for agriculture
+- 👀 Currently working on learning about RISC-V
+- 🌱 I’m currently learning Verilog
+- 💞️ I’m looking to collaborate on building a toy fpga
 - 📫 How to reach me rahulmbme@gmail.com
 
 <!---
