@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Rahul Bhagwat
-- 👀 Currently working on learning about RISC-V
-- 🌱 I’m currently learning Verilog
-- 💞️ I’m looking to collaborate on building a toy fpga
-- 📫 How to reach me rahulmbme@gmail.com
+Learning to build cool software / hardware
 
 <!---
 bhagwat-rahul/bhagwat-rahul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
